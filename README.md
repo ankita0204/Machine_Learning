@@ -36,4 +36,9 @@
         |_ 5. KNN from Scratch
         |_ 6. Naive Bayes from Scratch
 
+    |_ In Class Kaggle Competition
+        |_ 1. Regression
+        |_ 2. Classification
+        |_ 3. M2 Submission (Travel Insurance)
+
 
