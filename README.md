@@ -16,6 +16,18 @@
           |_ Lasso
       
     |_ Class Notebooks
+        |_ 0. Python Basics
+        |_ 1. Numpy, pandas and Matplotlib
+        |_ 2. Linear Regression
+        |_ 3. sklearn
+        |_ 4. Logistic Regression
+        |_ 5. Regularized Linear Regression
+        |_ 6. Regularized Logistic Regression
+        |_ 7. Support Vector Machines (Linear)
+        |_ 8. Support Vector Machines (Non - Linear, Cross Validation)
+        |_ 9. Decision Tree Classifier
+        |_ 10. XGBoost with Optimization 
+    
     |_ Homework
         |_ 1. HackerRank: 30 - Days of Code (python)
         |_ 2. Numpy Basics
