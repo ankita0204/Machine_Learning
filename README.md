@@ -4,14 +4,23 @@
 ### Name: Ankita Dasgupta
 
 |_ API Writeups
+
     |_ Decision Tree 
+    
     |_ Grid Search
+    
     |_ Support Vector Classifier 
+    
     |_ Support Vector Regression 
+    
     |_ Regression 
+    
       |_ Linear Regression
+      
       |_ Logistic Regression
+      
       |_ Ridge
+      
       |_ Lasso
       
 |_ Class Notebooks
